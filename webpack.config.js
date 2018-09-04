@@ -41,4 +41,5 @@ module.exports = {
   },
   // plugins 放置所使用的外挂
   plugins: [HTMLWebpackPluginConfig],
+  mode: 'production',
 };
